@@ -1,14 +1,9 @@
-midi-track-merge
+mididump
 ================
 
-Merge multi-track MIDI sequence into a single track for further processing
+Dump MIDI file to plain text XML for human reading and debugging purposes.
 
-Usage
------
-
-`mergemid` script is used for merging tracks (aka. converting Type 1 MIDI file to Type 0)
-
-`midid` script is for dumping MIDI file to plain text for debugging purposes. (like `mftext` script from package `abcmidi` do)
+This program is a part of [midi-track-merge](https://github.com/m13253/midi-track-merge) project, but you can use it separately.
 
 Notice
 ------
